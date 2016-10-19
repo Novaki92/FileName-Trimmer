@@ -12,13 +12,13 @@ Trims the beginning and end of filenames for multiple files.
     
 - For Linux Users
 
-      1. You're on Linux. I mean python is like the defualt man. Figure it out 
+        1) You're on Linux. I mean python is like the defualt man. Figure it out 
 
-      2. But seriously just make sure you're on python 3 and run from terminal like all other py scripts
+        2) But seriously just make sure you're on python 3 and run from terminal like all other py scripts
 
-      3. This script hasn't been tested on any Linux OS as of yet but it should run fine
+        3) This script hasn't been tested on any Linux OS as of yet but it should run fine
 
-      4. Oh and same as windows. Make sure filename_trimmer.py is in the folder you want to trim files
+        4) Oh and same as windows. Make sure filename_trimmer.py is in the folder you want to trim files
     
  
 - For Programmers
@@ -31,6 +31,6 @@ Trims the beginning and end of filenames for multiple files.
 
 - inb4 FAQ:
 
-        Do I need to include a period when entering file extension?
+        Q: Do I need to include a period when entering file extension?
 
-            It's up to your preference. FileName Trimmer works fine with or without the period in the extension
+        A: It's up to your preference. FileName Trimmer works fine with or without the period in the extension
