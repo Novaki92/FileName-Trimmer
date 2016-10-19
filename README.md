@@ -3,11 +3,11 @@ Trims the beginning and end of filenames for multiple files.
 ************************************************************
 - For Windows Users
 
-1. .exe is in dist folder
+1) .exe is in dist folder
 
-2. place into directory you wish to trim file names
+2) place into directory you wish to trim file names
 
-3. follow prompts
+3) follow prompts
 
     
 - For Linux Users
