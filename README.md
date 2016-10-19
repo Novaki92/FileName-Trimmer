@@ -42,3 +42,8 @@ There could be potential bugs right now so use at your own risk on files that ar
         Q: Do I need to include a period when entering file extension?
 
         A: It's up to your preference...FileName Trimmer works fine with or without the period in the extension
+        
+        
+        Q: Can I use this on files with numbers at the beginning? 
+        
+        A: If it's all the same number. Otherwise it wont work. 
