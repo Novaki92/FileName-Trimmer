@@ -19,7 +19,7 @@ for filename in os.listdir("."):
 #cycle through again
 #if filename ends with tail trim tail 
 #have to trim with extension here
-#Gives some feedback whenever users attempts to create a blank file name
+#gives some feedback whenever users attempts to create a blank file name
 for filename in os.listdir("."):
 	if filename.endswith(ext):
 		if filename.endswith(tail + ext):
