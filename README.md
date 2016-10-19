@@ -1,9 +1,9 @@
 # FileName-Trimmer
 Trims the beginning and end of filenames for multiple files. 
 ************************************************************
-- For Windows Users
+- For Windows Users [Download](https://github.com/Novaki92/FileName-Trimmer/blob/master/dist/filename_trimmer.exe)
 
-        1) .exe is in dist folder or you can [https://github.com/Novaki92/FileName-Trimmer/blob/master/dist/filename_trimmer.exe]
+        1) .exe is in dist folder is download link isn't working
 
         2) place into directory you wish to trim file names
 
