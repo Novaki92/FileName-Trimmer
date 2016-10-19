@@ -1,4 +1,4 @@
-# FileName-Trimmer
+# FileName Trimmer
 Trims the beginning and end of filenames for multiple files. 
 
 This program was created entirely because of the excessive amounts of torrents with redundant file names. 
