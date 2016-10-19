@@ -14,7 +14,7 @@ Trims the beginning and end of filenames for multiple files.
 
         1) You're on Linux. I mean python is like the defualt man. Figure it out 
 
-        2) But seriously just make sure you're on python 3 and run from terminal like all other py scripts
+        2) But seriously just make sure you have python 3 and run from terminal like all other py scripts
 
         3) This script hasn't been tested on any Linux OS as of yet but it should run fine
 
