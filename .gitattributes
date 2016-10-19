@@ -17,5 +17,5 @@
 *.RTF	 diff=astextplain
 
 $ cat .gitattributes
-build/filename_trimmer/* linguist-vendored
+*.toc linguist-language=Python 
 
