@@ -33,9 +33,18 @@ for filename in os.listdir("."):
 for filename in os.listdir("."):
 		if "." not in filename:
 			os.rename(filename, filename + ext)	
-#print all files to console
+#print all files with ext to console
 for filename in os.listdir("."):
 	if filename.endswith(ext):
 		print(filename)
 #wait for user input to close
 input("Press any key to exit...")
+
+### NOTES ###
+# Yes I know this probably isn't the most effect method but it works
+# If you attempt to run all the code in on instance of 'for filename in os.listdir("."):' you will encounter errors
+# I tried that already and basically the filename changes and then it can't find the file to do the next step
+# I also like the idea of it doing one step at a time in case I expand the code later
+# This code is also supposed to be easy to read for programming newcomers / that's why I commented so extensively
+# I know you get it but not everyone does. Make like an Interpreter and just ignore them.
+### END ### 
