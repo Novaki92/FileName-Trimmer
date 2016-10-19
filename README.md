@@ -23,7 +23,9 @@ Trims the beginning and end of filenames for multiple files.
  
 - For Programmers
 
-        1) If you want an exe you'll need to download PyInstaller from http://www.pyinstaller.org/
+        1) If you want an exe you'll need to download PyInstaller from http://www.pyinstaller.org/ 
+        
+        1.5) Or better yet just run 'pip install pyinstaller' in terminal/cmd
 
         2) Go to the correct directory that your .py script is in (in terminal/cmd)
 
