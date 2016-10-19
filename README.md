@@ -11,6 +11,7 @@ Trims the beginning and end of filenames for multiple files.
 
     
 - For Linux Users
+
   1 ) You're on Linux. I mean python is like the defualt man. Figure it out 
   
   2 ) But seriously just make sure you're on python 3 and run from terminal like all other py scripts
@@ -21,6 +22,7 @@ Trims the beginning and end of filenames for multiple files.
     
  
 - For Programmers
+
   If you want an exe you'll need to download PyInstaller from http://www.pyinstaller.org/
   
   Go to the correct directory that your .py script is in
@@ -28,6 +30,7 @@ Trims the beginning and end of filenames for multiple files.
   I personally run 'pyinstaller --onefile script.py' 
 
 - inb4 FAQ:
+
   Do I need to include a period when entering file extension?
   
     It's up to your preference. FileName Trimmer works fine with or without the period in the extension
