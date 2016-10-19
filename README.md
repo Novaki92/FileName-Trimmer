@@ -23,11 +23,11 @@ Trims the beginning and end of filenames for multiple files.
  
 - For Programmers
 
-        If you want an exe you'll need to download PyInstaller from http://www.pyinstaller.org/
+        1) If you want an exe you'll need to download PyInstaller from http://www.pyinstaller.org/
 
-        Go to the correct directory that your .py script is in
+        2) Go to the correct directory that your .py script is in (in terminal/cmd)
 
-        I personally run 'pyinstaller --onefile script.py' for sake of simplicity but you can use something else if you want
+        3) I personally run 'pyinstaller --onefile script.py' for sake of simplicity but you can use something else if you want
 
 - inb4 FAQ:
 
