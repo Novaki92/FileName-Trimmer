@@ -49,3 +49,9 @@ Check the [Wiki](https://github.com/Novaki92/FileName-Trimmer/wiki) for a quick 
         Q: Can I use this on files with numbers at the beginning? 
         
         A: If it's all the same number. Otherwise it wont work. 
+        
+        
+        Q: What happens if I don't enter anything?
+        
+        A: If you don't enter anything into the head or tail then nothing happens to whichever you didn't put any text. 
+        If you don't enter anything into the file extension then it defaults to .txt.
