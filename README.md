@@ -3,7 +3,7 @@ Trims the beginning and end of filenames for multiple files.
 ************************************************************
 - For Windows Users
 
-        1) .exe is in dist folder or you can [download here](https://github.com/Novaki92/FileName-Trimmer/blob/master/dist/filename_trimmer.exe)
+        1) .exe is in dist folder or you can [https://github.com/Novaki92/FileName-Trimmer/blob/master/dist/filename_trimmer.exe]
 
         2) place into directory you wish to trim file names
 
