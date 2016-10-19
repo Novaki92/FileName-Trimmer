@@ -1,6 +1,8 @@
 # FileName-Trimmer
 Trims the beginning and end of filenames for multiple files. 
+
 This program was created entirely because of the excessive amounts of torrents with redundant file names. 
+
 Enjoy
 ************************************************************
 - For Windows Users [Download](https://github.com/Novaki92/FileName-Trimmer/raw/master/dist/filename_trimmer.exe)
