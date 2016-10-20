@@ -5,7 +5,7 @@ This program was created entirely because of the excessive amounts of torrents w
 
 I have plans to eventually expand this to a gui program probably written in C# in the future. 
 
-There could be potential bugs right now so use at your own risk on files that aren't important to you. 
+There could be potential bugs right now so use at your own risk on files that aren't very important to you. 
 
 Check the [Wiki](https://github.com/Novaki92/FileName-Trimmer/wiki) for a quick visual tutorial. 
 ************************************************************
