@@ -20,7 +20,7 @@ Check the [Wiki](https://github.com/Novaki92/FileName-Trimmer/wiki) for a quick 
     
 - For Linux Users
 
-        1) You're on Linux...I mean python is like the defualt man. Figure it out 
+        1) You're on Linux...I mean python is like the defualt man...figure it out 
 
         2) But seriously just make sure you have python 3 and run from terminal like all other py scripts
 
