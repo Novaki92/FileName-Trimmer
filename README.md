@@ -37,7 +37,7 @@ Check the [Wiki](https://github.com/Novaki92/FileName-Trimmer/wiki) for a quick 
 
         2) Go to the correct directory that your .py script is in (in terminal/cmd)
 
-        3) I personally run 'pyinstaller --onefile script.py' for sake of simplicity but you can use something else if you want
+        3) I personally run 'pyinstaller --onefile filename_trimmer.py' for sake of simplicity but you can use something else if you want
 
 - inb4 FAQ:
 
