@@ -1,7 +1,7 @@
 # FileName Trimmer
 Trims the beginning and end of filenames for multiple files. 
 
-This program was created entirely because of the excessive amounts of torrents with redundant file names. 
+This program was created entirely because of the excessive amounts of digital media with redundant file names. 
 
 I have plans to eventually expand this to a gui program probably written in C# in the future. 
 
