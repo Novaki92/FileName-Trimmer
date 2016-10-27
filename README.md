@@ -3,8 +3,6 @@ Trims the beginning and end of filenames for multiple files.
 
 This program was created entirely because of the excessive amounts of digital media with redundant file names. 
 
-There could be potential bugs right now so use at your own risk on files that aren't very important to you. 
-
 Check the [Wiki](https://github.com/Novaki92/FileName-Trimmer/wiki) for a quick visual tutorial. 
 ************************************************************
 - For Windows Users [Download](https://github.com/Novaki92/FileName-Trimmer/raw/master/dist/filename_trimmer.exe)
