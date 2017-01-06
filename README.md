@@ -35,7 +35,7 @@ Check the [Wiki](https://github.com/Novaki92/FileName-Trimmer/wiki) for a quick 
 
         3) I personally run 'pyinstaller --onefile filename_trimmer.py' for sake of simplicity but you can use something else if you want
 
-- inb4 FAQ:
+- FAQ:
 
         Q: Do I need to include a period when entering file extension?
         A: It's up to your preference...FileName Trimmer works fine with or without the period in the extension
