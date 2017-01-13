@@ -12,6 +12,8 @@ Check the [Wiki](https://github.com/Novaki92/FileName-Trimmer/wiki) for a quick 
         2) place into directory you wish to trim file names
 
         3) follow prompts
+        
+        4) delete program - this is intended to be disposable software
 
     
 - For Linux Users
