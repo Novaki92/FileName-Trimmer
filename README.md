@@ -26,7 +26,19 @@ Check the [Wiki](https://github.com/Novaki92/FileName-Trimmer/wiki) for a quick 
 
         4) Oh and same as windows...Make sure filename_trimmer.py is in the folder you want to trim files
     
- 
+- For Mac Users
+
+        1) Make sure you have Python installed on your machine by opening terminal and typing 'python'
+        
+        2) Copy filename_trimmer.py into the folder you wish to work in
+        
+        3) Right click and then select Open With then select IDLE 
+        
+        4) Click IDLE then go to Run and then select Run Module (or press Function + F5) 
+        
+        5) Follow prompts then close IDLE 
+        
+        
 - For Programmers
 
         1) If you want an exe you'll need to download PyInstaller from http://www.pyinstaller.org/ 
